@@ -25,6 +25,15 @@
 3.  VS Codeでこのプロジェクトのフォルダを開き、main.htmlを開きます。
 4.  画面右下のステータスバーにある「Go Live」ボタンをクリックすると、自動的にブラウザが起動し、アプリケーションが実行されます。
 
+### MacOSの場合
+
+1.  Visual Studio Code (VS Code) を開きます。
+2.  hogehoge/NIGATA_SAKE_QUIZ 上で　contrit+Shift+^　ターミナルを開きます。
+3.  「python3 -m http.server」　もしくは　「python -m http.server」で鯖立てします。
+4.  http://localhost:8000/  にアクセスします。
+
+
+
 ## ファイル構成
 
 -   `index.html`: アプリケーションのメインとなるHTMLファイルです。
